@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hello darkness my old friend
-=======
-hello world
->>>>>>> master
